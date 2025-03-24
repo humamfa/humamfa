@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+A Bachelor of Engineering graduate learning to be a Data Analyst.
+
+Technical Skills: Microsoft Office, Python, SQL, Matlab, R, Tableau, TensorFlow, scikit-learn
+
 <!--
 **humamfa/humamfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
